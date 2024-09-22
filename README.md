@@ -63,3 +63,27 @@
 - [ ] 13/11/2024 - Identificação dos serviços de armazenamento da AWS e suas classes
 - [ ] 14/11/2024 - Identificar serviços de inteligência artificial e machine learning (IA/ML)
 - [ ] 15/11/2024 - Identificação de serviços de analytics da AWS (Amazon Athena, Kinesis)
+
+### Semana 9: Modelos de Preços da AWS
+
+- [ ] 18/11/2024 - Comparar os modelos de preços da AWS: instâncias sob demanda e reservadas
+- [ ] 19/11/2024 - Compreensão das Spot Instances, Savings Plans e hosts dedicados
+- [ ] 20/11/2024 - Análise das cobranças de transferência de dados (recebidos e enviados)
+- [ ] 21/11/2024 - Estudo das opções e níveis de armazenamento da AWS
+- [ ] 22/11/2024 - Avaliação das diferentes opções de compra de computação
+
+### Semana 10: Gerenciamento de Custos e Orçamento
+
+- [ ] 25/11/2024 - Compreender os recursos de gerenciamento de cobrança da AWS
+- [ ] 26/11/2024 - Estudo do AWS Budgets e AWS Cost Explorer
+- [ ] 27/11/2024 - Utilização do AWS Pricing Calculator
+- [ ] 28/11/2024 - Compreensão da cobrança consolidada no AWS Organizations
+- [ ] 29/11/2024 - Identificação de tags de alocação de custos e sua relação com relatórios
+
+### Semana 11: Recursos Técnicos e Suporte da AWS
+
+- [ ] 02/12/2024 - Identificação dos recursos e documentação disponíveis na AWS
+- [ ] 03/12/2024 - Estudo dos planos do AWS Support e suas opções
+- [ ] 04/12/2024 - Localização de whitepapers e recomendações no AWS Knowledge Center
+- [ ] 05/12/2024 - Compreensão do Trusted Advisor e AWS Health Dashboard
+- [ ] 06/12/2024 - Identificação das opções de assistência técnica da AWS (Professional Services, architects)
