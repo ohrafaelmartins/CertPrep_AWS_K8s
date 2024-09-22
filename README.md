@@ -39,3 +39,27 @@
 - [ ] 23/10/2024 - Compreensão do Princípio de Menor Privilégio e AWS IAM Identity Center
 - [ ] 24/10/2024 - Identificação dos métodos de autenticação na AWS (MFA, IAM Identity Center)
 - [ ] 25/10/2024 - Descrição dos recursos e serviços de segurança da AWS (grupos de segurança, ACLs de rede, AWS WAF)
+
+### Semana 6: Métodos de Implantação e Infraestrutura Global
+
+- [ ] 28/10/2024 - Definir métodos de implantação e operação na nuvem AWS
+- [ ] 29/10/2024 - Diferentes formas de provisionamento e operação na nuvem AWS
+- [ ] 30/10/2024 - Identificação dos modelos de implantação (nuvem, híbrido, on-premises)
+- [ ] 31/10/2024 - Descrição da infraestrutura global da AWS: regiões e zonas de disponibilidade
+- [ ] 01/11/2024 - Benefícios do uso de várias regiões e locais de borda
+
+### Semana 7: Serviços Computacionais e de Banco de Dados da AWS
+
+- [ ] 04/11/2024 - Identificar os serviços computacionais da AWS
+- [ ] 05/11/2024 - Reconhecimento do uso de instâncias EC2 e opções de contêiner (ECS, EKS)
+- [ ] 06/11/2024 - Compreensão dos serviços de computação sem servidor (AWS Fargate, Lambda)
+- [ ] 07/11/2024 - Identificação dos serviços de banco de dados da AWS
+- [ ] 08/11/2024 - Decisão entre bancos de dados hospedados no EC2 e bancos de dados gerenciados
+
+### Semana 8: Serviços de Rede, Armazenamento e Análise da AWS
+
+- [ ] 11/11/2024 - Identificar os serviços de rede da AWS e componentes de uma VPC
+- [ ] 12/11/2024 - Compreensão da segurança em uma VPC (ACLs de rede, grupos de segurança)
+- [ ] 13/11/2024 - Identificação dos serviços de armazenamento da AWS e suas classes
+- [ ] 14/11/2024 - Identificar serviços de inteligência artificial e machine learning (IA/ML)
+- [ ] 15/11/2024 - Identificação de serviços de analytics da AWS (Amazon Athena, Kinesis)
