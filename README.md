@@ -1,3 +1,14 @@
+| Categoria                     | Detalhes                                                                                       |
+|-------------------------------|-----------------------------------------------------------------------------------------------|
+| Básico                        |                                                                                               |
+| Duração do exame              | 90 minutos                                                                                    |
+| Formato do exame              | 65 questões; múltipla escolha ou múltipla resposta                                            |
+| Custo                         | 100 USD. Visite os Preços do exame para obter informações adicionais sobre custos, incluindo taxas de câmbio |
+| Tipo de teste                 | Presencial ou on-line                                                                          |
+| Local de teste                | Centro de testes da Pearson VUE ou exame on-line monitorado                                   |
+| Idiomas oferecidos            | Inglês, japonês, coreano, chinês simplificado, chinês tradicional, bahasa (Indonésia), espanhol (Espanha), espanhol (América Latina), francês (França), alemão, italiano e português (Brasil) |
+
+
 ## Cronograma de Estudos para AWS Certified Cloud Practitioner
 
 ### Semana 1: Conceitos da Nuvem
