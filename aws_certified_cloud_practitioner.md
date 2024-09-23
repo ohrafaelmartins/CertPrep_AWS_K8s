@@ -1,100 +1,89 @@
-| Categoria                     | Detalhes                                                                                       |
-|-------------------------------|-----------------------------------------------------------------------------------------------|
-| Básico                        |                                                                                               |
-| Duração do exame              | 90 minutos                                                                                    |
-| Formato do exame              | 65 questões; múltipla escolha ou múltipla resposta                                            |
-| Custo                         | 100 USD. Visite os Preços do exame para obter informações adicionais sobre custos, incluindo taxas de câmbio |
-| Tipo de teste                 | Presencial ou on-line                                                                          |
-| Local de teste                | Centro de testes da Pearson VUE ou exame on-line monitorado                                   |
-| Idiomas oferecidos            | Inglês, japonês, coreano, chinês simplificado, chinês tradicional, bahasa (Indonésia), espanhol (Espanha), espanhol (América Latina), francês (França), alemão, italiano e português (Brasil) |
+## Study Schedule for AWS Certified Cloud Practitioner
 
+### Week 1: Cloud Concepts
 
-## Cronograma de Estudos para AWS Certified Cloud Practitioner
+- [ ] September 23, 2024 - Define the benefits of AWS Cloud and its value proposition
+- [ ] September 24, 2024 - Understanding the economic aspects of scaling (cost savings)
+- [ ] September 25, 2024 - Advantages of global infrastructure (deployment speed, global reach)
+- [ ] September 26, 2024 - Advantages of high availability, elasticity, and agility
+- [ ] September 27, 2024 - Introduction to the AWS Well-Architected Framework and its pillars
 
-### Semana 1: Conceitos da Nuvem
+### Week 2: Cloud Principles and Strategies
 
-- [ ] 23/09/2024 - Definir os benefícios da nuvem AWS e sua proposta de valor
-- [ ] 24/09/2024 - Compreensão dos aspectos econômicos do dimensionamento (economia de custos)
-- [ ] 25/09/2024 - Vantagens da infraestrutura global (velocidade de implantação, alcance global)
-- [ ] 26/09/2024 - Vantagens da alta disponibilidade, elasticidade e agilidade
-- [ ] 27/09/2024 - Introdução ao AWS Well-Architected Framework e seus pilares
+- [ ] September 30, 2024 - Identifying the pillars of the Well-Architected Framework (operational excellence, security, reliability, performance efficiency, cost optimization, sustainability)
+- [ ] October 1, 2024 - Understanding the benefits and strategies for migrating to AWS Cloud
+- [ ] October 2, 2024 - Study of cloud adoption strategies and AWS Cloud Adoption Framework (AWS CAF)
+- [ ] October 3, 2024 - Identifying suitable migration strategies (database replication, using AWS Snowball)
+- [ ] October 4, 2024 - Understanding the economic aspects of the cloud and cost savings from migration
 
-### Semana 2: Princípios e Estratégias da Nuvem
+### Week 3: Shared Responsibility Model and Security
 
-- [ ] 30/09/2024 - Identificação dos pilares do Well-Architected Framework (excelência operacional, segurança, confiabilidade, eficiência de desempenho, otimização de custos, sustentabilidade)
-- [ ] 01/10/2024 - Compreensão dos benefícios e estratégias de migração para a nuvem AWS
-- [ ] 02/10/2024 - Estudo das estratégias de adoção da nuvem e AWS Cloud Adoption Framework (AWS CAF)
-- [ ] 03/10/2024 - Identificação de estratégias de migração adequadas (replicação de banco de dados, uso do AWS Snowball)
-- [ ] 04/10/2024 - Compreensão dos aspectos econômicos da nuvem e economia de custos da migração
+- [ ] October 7, 2024 - Understand the AWS Shared Responsibility Model
+- [ ] October 8, 2024 - Recognizing the components of the Shared Responsibility Model
+- [ ] October 9, 2024 - Describing customer and AWS responsibilities
+- [ ] October 10, 2024 - How responsibilities change depending on the service used (Amazon RDS, AWS Lambda, Amazon EC2)
+- [ ] October 11, 2024 - Understanding security, governance, and compliance concepts in AWS Cloud
 
-### Semana 3: Modelo de Responsabilidade Compartilhada e Segurança
+### Week 4: Security and Governance in AWS
 
-- [ ] 07/10/2024 - Compreender o Modelo de Responsabilidade Compartilhada da AWS
-- [ ] 08/10/2024 - Reconhecimento dos componentes do Modelo de Responsabilidade Compartilhada
-- [ ] 09/10/2024 - Descrição das responsabilidades do cliente e da AWS
-- [ ] 10/10/2024 - Como as responsabilidades mudam conforme o serviço utilizado (Amazon RDS, AWS Lambda, Amazon EC2)
-- [ ] 11/10/2024 - Compreender os conceitos de segurança, governança e conformidade da nuvem AWS
+- [ ] October 14, 2024 - Identifying compliance information from AWS (e.g., AWS Artifact)
+- [ ] October 15, 2024 - Describing how to secure resources in AWS (Amazon Inspector, AWS Security Hub, Amazon GuardDuty, AWS Shield)
+- [ ] October 16, 2024 - Identifying encryption options (encryption in transit and at rest)
+- [ ] October 17, 2024 - Recognizing services that assist in governance and compliance (Amazon CloudWatch, AWS CloudTrail)
+- [ ] October 18, 2024 - Reviewing compliance requirements across AWS services
 
-### Semana 4: Segurança e Governança na AWS
+### Week 5: Access Management and Security Resources
 
-- [ ] 14/10/2024 - Identificação das informações sobre conformidade da AWS (por exemplo, AWS Artifact)
-- [ ] 15/10/2024 - Descrição de como proteger recursos na AWS (Amazon Inspector, AWS Security Hub, Amazon GuardDuty, AWS Shield)
-- [ ] 16/10/2024 - Identificação das opções de criptografia (criptografia em trânsito e em repouso)
-- [ ] 17/10/2024 - Reconhecimento de serviços que auxiliam na governança e na conformidade (Amazon CloudWatch, AWS CloudTrail)
-- [ ] 18/10/2024 - Revisão dos requisitos de conformidade variando entre serviços da AWS
+- [ ] October 21, 2024 - Identifying AWS access management resources (AWS IAM)
+- [ ] October 22, 2024 - Understanding the importance of securing the AWS root user account
+- [ ] October 23, 2024 - Understanding the Principle of Least Privilege and AWS IAM Identity Center
+- [ ] October 24, 2024 - Identifying authentication methods in AWS (MFA, IAM Identity Center)
+- [ ] October 25, 2024 - Describing AWS security features and services (security groups, network ACLs, AWS WAF)
 
-### Semana 5: Gerenciamento de Acesso e Recursos de Segurança
+### Week 6: Deployment Methods and Global Infrastructure
 
-- [ ] 21/10/2024 - Identificar recursos de gerenciamento de acesso da AWS (AWS IAM)
-- [ ] 22/10/2024 - Compreender a importância de proteger a conta de usuário-raiz da AWS
-- [ ] 23/10/2024 - Compreensão do Princípio de Menor Privilégio e AWS IAM Identity Center
-- [ ] 24/10/2024 - Identificação dos métodos de autenticação na AWS (MFA, IAM Identity Center)
-- [ ] 25/10/2024 - Descrição dos recursos e serviços de segurança da AWS (grupos de segurança, ACLs de rede, AWS WAF)
+- [ ] October 28, 2024 - Define deployment and operational methods in AWS Cloud
+- [ ] October 29, 2024 - Different provisioning and operational methods in AWS Cloud
+- [ ] October 30, 2024 - Identifying deployment models (cloud, hybrid, on-premises)
+- [ ] October 31, 2024 - Describing AWS global infrastructure: regions and availability zones
+- [ ] November 1, 2024 - Benefits of using multiple regions and edge locations
 
-### Semana 6: Métodos de Implantação e Infraestrutura Global
+### Week 7: AWS Computing and Database Services
 
-- [ ] 28/10/2024 - Definir métodos de implantação e operação na nuvem AWS
-- [ ] 29/10/2024 - Diferentes formas de provisionamento e operação na nuvem AWS
-- [ ] 30/10/2024 - Identificação dos modelos de implantação (nuvem, híbrido, on-premises)
-- [ ] 31/10/2024 - Descrição da infraestrutura global da AWS: regiões e zonas de disponibilidade
-- [ ] 01/11/2024 - Benefícios do uso de várias regiões e locais de borda
+- [ ] November 4, 2024 - Identifying AWS computing services
+- [ ] November 5, 2024 - Recognizing the use of EC2 instances and container options (ECS, EKS)
+- [ ] November 6, 2024 - Understanding serverless computing services (AWS Fargate, Lambda)
+- [ ] November 7, 2024 - Identifying AWS database services
+- [ ] November 8, 2024 - Deciding between EC2-hosted databases and managed databases
 
-### Semana 7: Serviços Computacionais e de Banco de Dados da AWS
+### Week 8: AWS Networking, Storage, and Analytics Services
 
-- [ ] 04/11/2024 - Identificar os serviços computacionais da AWS
-- [ ] 05/11/2024 - Reconhecimento do uso de instâncias EC2 e opções de contêiner (ECS, EKS)
-- [ ] 06/11/2024 - Compreensão dos serviços de computação sem servidor (AWS Fargate, Lambda)
-- [ ] 07/11/2024 - Identificação dos serviços de banco de dados da AWS
-- [ ] 08/11/2024 - Decisão entre bancos de dados hospedados no EC2 e bancos de dados gerenciados
+- [ ] November 11, 2024 - Identifying AWS networking services and components of a VPC
+- [ ] November 12, 2024 - Understanding security in a VPC (network ACLs, security groups)
+- [ ] November 13, 2024 - Identifying AWS storage services and their classes
+- [ ] November 14, 2024 - Identifying AI and machine learning services (AI/ML)
+- [ ] November 15, 2024 - Identifying AWS analytics services (Amazon Athena, Kinesis)
 
-### Semana 8: Serviços de Rede, Armazenamento e Análise da AWS
+### Week 9: AWS Pricing Models
 
-- [ ] 11/11/2024 - Identificar os serviços de rede da AWS e componentes de uma VPC
-- [ ] 12/11/2024 - Compreensão da segurança em uma VPC (ACLs de rede, grupos de segurança)
-- [ ] 13/11/2024 - Identificação dos serviços de armazenamento da AWS e suas classes
-- [ ] 14/11/2024 - Identificar serviços de inteligência artificial e machine learning (IA/ML)
-- [ ] 15/11/2024 - Identificação de serviços de analytics da AWS (Amazon Athena, Kinesis)
+- [ ] November 18, 2024 - Comparing AWS pricing models: on-demand and reserved instances
+- [ ] November 19, 2024 - Understanding Spot Instances, Savings Plans, and dedicated hosts
+- [ ] November 20, 2024 - Analyzing data transfer charges (incoming and outgoing)
+- [ ] November 21, 2024 - Studying AWS storage options and tiers
+- [ ] November 22, 2024 - Evaluating different compute purchasing options
 
-### Semana 9: Modelos de Preços da AWS
+### Week 10: Cost Management and Budgeting
 
-- [ ] 18/11/2024 - Comparar os modelos de preços da AWS: instâncias sob demanda e reservadas
-- [ ] 19/11/2024 - Compreensão das Spot Instances, Savings Plans e hosts dedicados
-- [ ] 20/11/2024 - Análise das cobranças de transferência de dados (recebidos e enviados)
-- [ ] 21/11/2024 - Estudo das opções e níveis de armazenamento da AWS
-- [ ] 22/11/2024 - Avaliação das diferentes opções de compra de computação
+- [ ] November 25, 2024 - Understanding AWS billing management resources
+- [ ] November 26, 2024 - Studying AWS Budgets and AWS Cost Explorer
+- [ ] November 27, 2024 - Utilizing the AWS Pricing Calculator
+- [ ] November 28, 2024 - Understanding consolidated billing in AWS Organizations
+- [ ] November 29, 2024 - Identifying cost allocation tags and their relation to reporting
 
-### Semana 10: Gerenciamento de Custos e Orçamento
+### Week 11: AWS Technical Resources and Support
 
-- [ ] 25/11/2024 - Compreender os recursos de gerenciamento de cobrança da AWS
-- [ ] 26/11/2024 - Estudo do AWS Budgets e AWS Cost Explorer
-- [ ] 27/11/2024 - Utilização do AWS Pricing Calculator
-- [ ] 28/11/2024 - Compreensão da cobrança consolidada no AWS Organizations
-- [ ] 29/11/2024 - Identificação de tags de alocação de custos e sua relação com relatórios
-
-### Semana 11: Recursos Técnicos e Suporte da AWS
-
-- [ ] 02/12/2024 - Identificação dos recursos e documentação disponíveis na AWS
-- [ ] 03/12/2024 - Estudo dos planos do AWS Support e suas opções
-- [ ] 04/12/2024 - Localização de whitepapers e recomendações no AWS Knowledge Center
-- [ ] 05/12/2024 - Compreensão do Trusted Advisor e AWS Health Dashboard
-- [ ] 06/12/2024 - Identificação das opções de assistência técnica da AWS (Professional Services, architects)
+- [ ] December 2, 2024 - Identifying resources and documentation available on AWS
+- [ ] December 3, 2024 - Studying AWS Support plans and their options
+- [ ] December 4, 2024 - Locating whitepapers and recommendations in the AWS Knowledge Center
+- [ ] December 5, 2024 - Understanding Trusted Advisor and AWS Health Dashboard
+- [ ] December 6, 2024 - Identifying AWS support options (Professional Services, architects)
